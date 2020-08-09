@@ -17,9 +17,8 @@ git branch
 - pakistan
 
 1. main pointy
-     
-     -single
-     -double
+     - single
+     - double
 
 - [ ] hello
 - [x] world
