@@ -11,8 +11,11 @@ git status
 git add
 git branch
 ```
-1 hello
-2 world
+1. hello
+2. world
 - england
 - pakistan
+3.main pointy
+  -single
+  -double
 
