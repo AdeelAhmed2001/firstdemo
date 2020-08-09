@@ -5,3 +5,10 @@ This is my first demo project
 **this is bold**
 *this is italic*
 ***this is bold and italic both***
+>this is important note
+```
+git status
+git add
+git branch
+```
+
