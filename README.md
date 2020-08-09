@@ -21,6 +21,6 @@ git branch
      -single
      -double
 
--[ ] hello
--[x] world
--[ ] done
+- [ ] hello
+- [x] world
+- [ ] done
